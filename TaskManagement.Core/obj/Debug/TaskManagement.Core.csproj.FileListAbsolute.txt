@@ -1,0 +1,10 @@
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\TaskManagement.Core.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\TaskManagement.Core.pdb
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\obj\Debug\TaskManagement.Core.csprojResolveAssemblyReference.cache
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\obj\Debug\TaskManagement.Core.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\obj\Debug\TaskManagement.Core.pdb
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\TaskManagement.Core.dll.config
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\EntityFramework.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\EntityFramework.SqlServer.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\EntityFramework.xml
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Core\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Util\bin\Debug\TaskManagement.Util.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Util\bin\Debug\TaskManagement.Util.pdb
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Util\obj\Debug\TaskManagement.Util.csprojResolveAssemblyReference.cache
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Util\obj\Debug\TaskManagement.Util.dll
+G:\2015 Plan\Projects\TaskManagement\TaskManagement.Util\obj\Debug\TaskManagement.Util.pdb
